@@ -1,0 +1,23 @@
+/* Estilo general del formulario */
+form {
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 2rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #fafafa;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+  font-family: Arial, sans-serif;
+}
+
+/* Título del formulario */
+h2 {
+  text-align: center;
+  color: #1976d2;
+  margin-bottom: 1.5rem;
+}
+
+/* Estilo para cada fila del formulario */
+form > div {
+  margin-bottom: 1rem;
+}
